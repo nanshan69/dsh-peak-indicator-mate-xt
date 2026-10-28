@@ -19,7 +19,8 @@
 ## 公开 GitHub 仓库
 
 - 仓库：https://github.com/nanshan69/dsh-peak-indicator-mate-xt
-- 直接安装：`dsh plugin --profile web add github.com/nanshan69/dsh-peak-indicator-mate-xt#main`
+- 直接安装：`pnpm add github.com/nanshan69/dsh-peak-indicator-mate-xt#main`
+- 带 profile 的 CLI：`dsh plugin --profile web add github.com/nanshan69/dsh-peak-indicator-mate-xt#main`
 - 安装后重启 DSHM；桌面 profile 将 `web` 换成实际 profile 名。
 
 

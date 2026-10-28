@@ -208,6 +208,12 @@ dsh plugin --profile web add dsh-peak-indicator@0.2.10
 也可以直接从公开 GitHub 仓库安装最新源码：
 
 ```sh
+pnpm add github.com/nanshan69/dsh-peak-indicator-mate-xt#main
+```
+
+如果使用带 profile 的 DSH CLI，也可执行：
+
+```sh
 dsh plugin --profile web add github.com/nanshan69/dsh-peak-indicator-mate-xt#main
 ```
 
